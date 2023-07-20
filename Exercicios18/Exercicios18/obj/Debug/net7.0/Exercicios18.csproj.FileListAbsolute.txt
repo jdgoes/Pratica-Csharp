@@ -1,0 +1,15 @@
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\bin\Debug\net7.0\Exercicios18.exe
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\bin\Debug\net7.0\Exercicios18.deps.json
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\bin\Debug\net7.0\Exercicios18.runtimeconfig.json
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\bin\Debug\net7.0\Exercicios18.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\bin\Debug\net7.0\Exercicios18.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.AssemblyInfo.cs
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\refint\Exercicios18.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\Exercicios18.genruntimeconfig.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios18\Exercicios18\obj\Debug\net7.0\ref\Exercicios18.dll

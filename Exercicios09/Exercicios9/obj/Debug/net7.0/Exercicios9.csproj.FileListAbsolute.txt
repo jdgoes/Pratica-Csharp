@@ -1,0 +1,15 @@
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\bin\Debug\net7.0\Exercicios9.exe
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\bin\Debug\net7.0\Exercicios9.deps.json
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\bin\Debug\net7.0\Exercicios9.runtimeconfig.json
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\bin\Debug\net7.0\Exercicios9.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\bin\Debug\net7.0\Exercicios9.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.AssemblyInfo.cs
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\refint\Exercicios9.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\Exercicios9.genruntimeconfig.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios9\Exercicios9\obj\Debug\net7.0\ref\Exercicios9.dll

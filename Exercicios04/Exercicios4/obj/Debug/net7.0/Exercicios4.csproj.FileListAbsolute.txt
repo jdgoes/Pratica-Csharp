@@ -1,0 +1,15 @@
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.exe
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.deps.json
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.runtimeconfig.json
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.AssemblyInfo.cs
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\refint\Exercicios4.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.genruntimeconfig.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios4\Exercicios4\obj\Debug\net7.0\ref\Exercicios4.dll

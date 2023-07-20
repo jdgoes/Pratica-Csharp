@@ -1,0 +1,15 @@
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\bin\Debug\net7.0\Exercicios13.exe
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\bin\Debug\net7.0\Exercicios13.deps.json
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\bin\Debug\net7.0\Exercicios13.runtimeconfig.json
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\bin\Debug\net7.0\Exercicios13.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\bin\Debug\net7.0\Exercicios13.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.AssemblyInfo.cs
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\refint\Exercicios13.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\Exercicios13.genruntimeconfig.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios13\Exercicios13\obj\Debug\net7.0\ref\Exercicios13.dll

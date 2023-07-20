@@ -1,0 +1,15 @@
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\bin\Debug\net7.0\Exercicios16.exe
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\bin\Debug\net7.0\Exercicios16.deps.json
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\bin\Debug\net7.0\Exercicios16.runtimeconfig.json
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\bin\Debug\net7.0\Exercicios16.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\bin\Debug\net7.0\Exercicios16.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.AssemblyInfo.cs
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\refint\Exercicios16.dll
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.pdb
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\Exercicios16.genruntimeconfig.cache
+C:\Users\diogo\Desktop\DevC#\Exercicios16\Exercicios16\obj\Debug\net7.0\ref\Exercicios16.dll
